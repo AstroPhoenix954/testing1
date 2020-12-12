@@ -24,7 +24,7 @@ class Discord extends AbstractProvider
      *
      * @var string Base API url.
      */
-    const BASE_API_URL = 'https://discordapp.com/api';
+    const BASE_API_URL = 'https://discord.com/api/oauth2/authorize?client_id=787020250804781108&redirect_uri=http%3A%2F%2Fdarkbot.c1.biz%2F&response_type=code&scope=identify';
 
     /**
      * An array of available OAuth scopes.
